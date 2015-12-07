@@ -31,7 +31,6 @@ namespace Plugin.KeyChain
 #if PORTABLE
         return null;
 #else
-		//return KeyChainImplementation.Instance;
 		return new KeyChainImplementation();
 #endif
     }
