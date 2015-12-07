@@ -1,0 +1,7 @@
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain\bin\Debug\Plugin.KeyChain.dll
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain\bin\Debug\Plugin.KeyChain.pdb
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain\bin\Debug\Plugin.KeyChain.Abstractions.dll
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain\bin\Debug\Plugin.KeyChain.Abstractions.pdb
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain\obj\Debug\Plugin.KeyChain.csprojResolveAssemblyReference.cache
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain\obj\Debug\Plugin.KeyChain.dll
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain\obj\Debug\Plugin.KeyChain.pdb

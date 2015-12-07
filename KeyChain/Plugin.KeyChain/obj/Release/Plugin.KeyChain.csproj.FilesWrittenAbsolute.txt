@@ -1,0 +1,8 @@
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain/obj/Release/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain/bin/Release/Plugin.KeyChain.dll.mdb
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain/bin/Release/Plugin.KeyChain.dll
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain/obj/Release/Plugin.KeyChain.dll
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain/obj/Release/Plugin.KeyChain.dll.mdb
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain/bin/Release/Plugin.KeyChain.Abstractions.dll
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain/bin/Release/Plugin.KeyChain.Abstractions.dll.mdb
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain/bin/Release/Plugin.KeyChain.Abstractions.xml

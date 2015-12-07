@@ -1,0 +1,13 @@
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/MonoAndroid,Version=v5.1.AssemblyAttribute.cs
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/Plugin.KeyChain.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain.dll.mdb
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain.dll
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain.apk
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/android/bin/Plugin.KeyChain.apk
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/R.cs.flag
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain-Signed.apk
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/uploadflags.txt
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/Plugin.KeyChain.dll
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/Plugin.KeyChain.dll.mdb
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain.Abstractions.dll
+/Users/alexrainman1975/XamarinProjects/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain.Abstractions.dll.mdb

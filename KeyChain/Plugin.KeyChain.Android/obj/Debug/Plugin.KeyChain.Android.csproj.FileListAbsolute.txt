@@ -1,0 +1,12 @@
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\obj\Debug\Plugin.KeyChain.Android.csprojResolveAssemblyReference.cache
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\bin\Debug\Plugin.KeyChain.dll
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\bin\Debug\Plugin.KeyChain.pdb
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\bin\Debug\Plugin.KeyChain.apk
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\bin\Debug\Plugin.KeyChain-Signed.apk
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\bin\Debug\Plugin.KeyChain.Abstractions.dll
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\bin\Debug\Plugin.KeyChain.Abstractions.pdb
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\obj\Debug\Plugin.KeyChain.dll
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\obj\Debug\Plugin.KeyChain.pdb
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\obj\Debug\android\bin\Plugin.KeyChain.apk
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\obj\Debug\R.cs.flag
+C:\Users\alexrainman\Desktop\KeyChain\KeyChain\Plugin.KeyChain.Android\obj\Debug\uploadflags.txt
