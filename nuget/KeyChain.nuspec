@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Plugin.KeyChain</id>
+        <version>2.0.1</version>
+        <title>Plugin.KeyChain</title>
+        <authors>Alex Rainman</authors>
+        <owners>Alex Rainman</owners>
+        <licenseUrl>https://github.com/alexrainman/Plugin.KeyChain/master/LICENSE.txt</licenseUrl>
+        <projectUrl>https://github.com/alexrainman/Plugin.KeyChain</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>KeyChain plugin for Xamarin and Windows.</description>
+        <summary>KeyChain plugin for Xamarin and Windows.</summary>
+        <releaseNotes>
+        2.0.0
+        [Bug fix] Adding support for iOS 10.
+        [Update] Adding support for UWP.
+        </releaseNotes>
+        <tags>KeyChain PasswordVault pcl keyStore privateKey password secure security protection ios android windows xamarin monotouch monodroid winrt winphone</tags>
+    </metadata>
+    <files>
+        <!-- PCL -->
+        <file src="lib/Plugin.KeyChain.dll" target="lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+Xamarin.iOS10/Plugin.KeyChain.dll" />
+        <file src="lib/Plugin.KeyChain.Abstractions.dll" target="lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+Xamarin.iOS10/Plugin.KeyChain.Abstractions.dll" />     
+
+        <!-- Xamarin.iOS (Unified)-->
+        <file src="lib/iOSUnified/Plugin.KeyChain.dll" target="lib/Xamarin.iOS10/Plugin.KeyChain.dll" />
+        <file src="lib/Plugin.KeyChain.Abstractions.dll" target="lib/Xamarin.iOS10/Plugin.KeyChain.Abstractions.dll" />
+
+        <!-- Xamarin.Android -->
+        <file src="lib/Android/Plugin.KeyChain.dll" target="lib/MonoAndroid/Plugin.KeyChain.dll" />
+        <file src="lib/Plugin.KeyChain.Abstractions.dll" target="lib/MonoAndroid/Plugin.KeyChain.Abstractions.dll" />
+
+        <!-- UWP -->
+        <file src="lib/UWP/Plugin.KeyChain.dll" target="lib/UAP10/Plugin.KeyChain.dll" />
+        <file src="lib/Plugin.KeyChain.Abstractions.dll" target="lib/UAP10/Plugin.KeyChain.Abstractions.dll" />
+    </files>
+</package>

@@ -1,0 +1,7 @@
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain/bin/Debug/Plugin.KeyChain.dll.mdb
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain/bin/Debug/Plugin.KeyChain.dll
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain/obj/Debug/Plugin.KeyChain.dll
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain/obj/Debug/Plugin.KeyChain.dll.mdb
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain/bin/Debug/Plugin.KeyChain.Abstractions.dll
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain/bin/Debug/Plugin.KeyChain.Abstractions.dll.mdb

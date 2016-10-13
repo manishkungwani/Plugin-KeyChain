@@ -1,0 +1,8 @@
+/Users/alexrainman/Desktop/KeyChain/src/KeyChain/Plugin.KeyChain.iOS/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/alexrainman/Desktop/KeyChain/src/KeyChain/Plugin.KeyChain.iOS/obj/Release/optimized/
+/Users/alexrainman/Desktop/KeyChain/src/KeyChain/Plugin.KeyChain.iOS/bin/iPhone/Release/Plugin.KeyChain.dll
+/Users/alexrainman/Desktop/KeyChain/src/KeyChain/Plugin.KeyChain.iOS/obj/Release/Plugin.KeyChain.dll
+/Users/alexrainman/Desktop/KeyChain/src/KeyChain/Plugin.KeyChain.iOS/bin/iPhone/Release/Plugin.KeyChain.Abstractions.dll
+/Users/alexrainman/Desktop/KeyChain/src/KeyChain/Plugin.KeyChain.iOS/bin/iPhone/Release/Plugin.KeyChain.Abstractions.dll.mdb
+/Users/alexrainman/Desktop/KeyChain/src/KeyChain/Plugin.KeyChain.iOS/bin/iPhone/Release/Plugin.KeyChain.Abstractions.pdb
+/Users/alexrainman/Desktop/KeyChain/src/KeyChain/Plugin.KeyChain.iOS/bin/iPhone/Release/Plugin.KeyChain.Abstractions.xml

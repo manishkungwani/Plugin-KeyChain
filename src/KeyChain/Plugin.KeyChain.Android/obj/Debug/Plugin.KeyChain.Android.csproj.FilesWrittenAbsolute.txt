@@ -1,0 +1,13 @@
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/Plugin.KeyChain.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain.dll.mdb
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain.dll
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain.apk
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/android/bin/Plugin.KeyChain.apk
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/R.cs.flag
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain-Signed.apk
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/uploadflags.txt
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/Plugin.KeyChain.dll
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/obj/Debug/Plugin.KeyChain.dll.mdb
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain.Abstractions.dll
+/Users/AReyes27/Desktop/KeyChain/KeyChain/Plugin.KeyChain.Android/bin/Debug/Plugin.KeyChain.Abstractions.dll.mdb

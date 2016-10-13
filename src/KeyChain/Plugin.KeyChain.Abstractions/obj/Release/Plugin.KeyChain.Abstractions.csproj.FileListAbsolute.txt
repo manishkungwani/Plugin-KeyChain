@@ -1,0 +1,5 @@
+C:\Users\Alex Rainman\Desktop\KeyChain\src\KeyChain\Plugin.KeyChain.Abstractions\bin\Release\Plugin.KeyChain.Abstractions.XML
+C:\Users\Alex Rainman\Desktop\KeyChain\src\KeyChain\Plugin.KeyChain.Abstractions\bin\Release\Plugin.KeyChain.Abstractions.dll
+C:\Users\Alex Rainman\Desktop\KeyChain\src\KeyChain\Plugin.KeyChain.Abstractions\bin\Release\Plugin.KeyChain.Abstractions.pdb
+C:\Users\Alex Rainman\Desktop\KeyChain\src\KeyChain\Plugin.KeyChain.Abstractions\obj\Release\Plugin.KeyChain.Abstractions.dll
+C:\Users\Alex Rainman\Desktop\KeyChain\src\KeyChain\Plugin.KeyChain.Abstractions\obj\Release\Plugin.KeyChain.Abstractions.pdb
