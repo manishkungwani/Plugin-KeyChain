@@ -1,4 +1,0 @@
-C:\Users\Alex Rainman\Desktop\KeyChain\src\KeyChain\Plugin.KeyChain.Abstractions\bin\Debug\Plugin.KeyChain.Abstractions.dll
-C:\Users\Alex Rainman\Desktop\KeyChain\src\KeyChain\Plugin.KeyChain.Abstractions\bin\Debug\Plugin.KeyChain.Abstractions.pdb
-C:\Users\Alex Rainman\Desktop\KeyChain\src\KeyChain\Plugin.KeyChain.Abstractions\obj\Debug\Plugin.KeyChain.Abstractions.dll
-C:\Users\Alex Rainman\Desktop\KeyChain\src\KeyChain\Plugin.KeyChain.Abstractions\obj\Debug\Plugin.KeyChain.Abstractions.pdb
